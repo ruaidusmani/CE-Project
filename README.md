@@ -1,9 +1,15 @@
 # CE-Project
 
-The CE was done during the last semester of CEGEP at Dawson College for Engineering Physics class (January to June 2021). 
+The CE was done during the last semester of CEGEP (Winter 2021) at Dawson College for Engineering Physics (203-BZE-05).
 I was inspired by the Engineering Physics labs where the class worked with Arduino to make a car as well as performimg simulations on the Virtual Lab.
 The project took me around 2 months. I did the physical simulations before doing the super challenge at the end. 
 
+##Overview
+Automating an Arduino-powered car to run a physically and virtually set course  
+Learned and used C++ in the Arduino shell to program the robot to use ultrasonic sensors to detect walls and guide its movement 
+Robot was put to navigate around a square-walled perimeter and drive away from it 
+Virtually, robot was programmed to collect coins in various Arduino environments 
+The project cultivated the skill of abstract thinking and problem solving independently 
 
 -------------------------------------------------------------
 **Part 1: Navigating the Arduino car around a square perimeter.**
