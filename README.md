@@ -6,11 +6,12 @@ The project took me around 2 months. I did the physical simulations before doing
 
 ## Overview
 
-Automating an Arduino-powered car to run a physically and virtually set course  
-Learned and used C++ in the Arduino shell to program the robot to use ultrasonic sensors to detect walls and guide its movement 
-Robot was put to navigate around a square-walled perimeter and drive away from it 
-Virtually, robot was programmed to collect coins in various Arduino environments 
-The project cultivated the skill of abstract thinking and problem solving independently 
+- Automating an Arduino-powered car to run a physically and virtually set course  
+- Learned and used C++ in the Arduino shell to program the robot to use ultrasonic sensors to detect walls and guide its movement 
+- Robot was put to navigate around a square-walled perimeter and drive away from it 
+- Virtually, robot was programmed to collect coins in various Arduino environments 
+- The project cultivated the skill of abstract thinking and problem solving independently 
+
 
 -------------------------------------------------------------
 **Part 1: Navigating the Arduino car around a square perimeter.**
